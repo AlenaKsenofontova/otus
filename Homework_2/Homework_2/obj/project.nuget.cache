@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3j5WsM4MPL5U4ZsQui6uxBeDac5edJkb77lklHoIBzSPTBBhCZbPFeDX2CUHFf+riDH0i8yUeUwdJfPXmxvekQ==",
+  "success": true,
+  "projectFilePath": "D:\\OTUS\\ДЗ\\Homework_2\\Homework_2\\Homework_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alyon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\alyon\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\alyon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
